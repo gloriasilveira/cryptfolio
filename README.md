@@ -9,3 +9,10 @@ It then goes out to coinmarketcap.com's API, grabs the current price for what yo
 As an example, using the included demo portfolio_details.yml settings file, you would see output like this:
 
 ![Image](output.png)
+
+## To run:
+
+1-Clone repo
+2-Install all dependencies (PyYAML, Requests, JSON and Tabulate)
+3-Update the portfolio_details.yml file with number of coins you have and how much you paid for them (in USD)
+4-Run script:  "python ./cryptfolio.py"
