@@ -60,7 +60,7 @@ ltc_net_value = ltc_gross_value - LTC_USD_SPENT
 
 # Calculate Portfolio as a whole
 port_gross = btc_gross_value + eth_gross_value + ltc_gross_value 
-port_net = btc_net_value + eth_net_value + ltc_gross_value
+port_net = btc_net_value + eth_net_value + ltc_net_value
 
 # Step 4: Display results to user
 ##################################
