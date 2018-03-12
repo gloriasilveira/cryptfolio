@@ -1,0 +1,11 @@
+Bitcoin:
+    BTC_COUNT: 2
+    BTC_USD_SPENT: 500.00
+
+Ethereum:
+    ETH_COUNT: 5
+    ETH_USD_SPENT: 200.00
+
+Litecoin:
+    LTC_COUNT: 5
+    LTC_USD_SPENT: 200.00 
