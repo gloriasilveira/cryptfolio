@@ -1,4 +1,4 @@
-# cryptfolio
+# CryptFolio
 
 This is a script that will calculate your crypto portfolio's current amount and net value based upon two things:
 
@@ -12,8 +12,8 @@ As an example, using the included demo portfolio_details.yml settings file, you 
 
 ## To run:
 <ol>
-<li>1-Clone repo</li>
-<li>2-Install all dependencies (PyYAML, Requests, JSON and Tabulate)</li>
-<li>3-Update the portfolio_details.yml file with number of coins you have and how much you paid for them (in USD)</li>
-<li>4-Run script:  "python ./cryptfolio.py"</li>
+<li>Clone repo</li>
+<li>Install all dependencies (PyYAML, Requests, JSON and Tabulate)</li>
+<li>Update the portfolio_details.yml file with number of coins you have and how much you paid for them (in USD)</li>
+<li>Run script:  "python ./cryptfolio.py"</li>
 </ol>
