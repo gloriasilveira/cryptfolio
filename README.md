@@ -11,8 +11,9 @@ As an example, using the included demo portfolio_details.yml settings file, you 
 ![Image](output.png)
 
 ## To run:
-
-1-Clone repo
-2-Install all dependencies (PyYAML, Requests, JSON and Tabulate)
-3-Update the portfolio_details.yml file with number of coins you have and how much you paid for them (in USD)
-4-Run script:  "python ./cryptfolio.py"
+<ol>
+<li>1-Clone repo</li>
+<li>2-Install all dependencies (PyYAML, Requests, JSON and Tabulate)</li>
+<li>3-Update the portfolio_details.yml file with number of coins you have and how much you paid for them (in USD)</li>
+<li>4-Run script:  "python ./cryptfolio.py"</li>
+</ol>
