@@ -8,4 +8,8 @@ Ethereum:
 
 Litecoin:
     LTC_COUNT: 5
-    LTC_USD_SPENT: 200.00 
+    LTC_USD_SPENT: 200.00
+
+Ethlend:
+    LEND_COUNT: 0
+    LEND_USD_SPENT: 0 
